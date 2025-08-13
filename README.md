@@ -40,16 +40,12 @@
 - ✅ Ethical Hacking – NPTEL  
 - ✅ Cybersecurity Analyst – Tata Group (Forage)  
 - ✅ Joy of Computing using Python – NPTEL  
-- ✅ ServiceNow Micro-Certificate
 
 ---
 
 ## 🧠 Projects
 
-### 🔍 Deepfake Detection using Machine Learning
-- 🧪 Built a CNN/RNN-based model with 90%+ accuracy  
-- 🧰 Tools: Python, TensorFlow, OpenCV  
-- 🧑‍💻 Developed a user-friendly interface with a custom dataset
+
 
 ---
 

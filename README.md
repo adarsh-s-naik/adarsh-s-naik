@@ -14,7 +14,7 @@
 - 🎯 Focused on: **VAPT**, Bug Bounty, Threat Analysis, Web App Security
 - 📌 Based in: **Mangalore / Karkala, Karnataka**
 - 📧 [adarshnaik9977@gmail.com](mailto:adarshnaik9977@gmail.com)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adarsh-s-naik/)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adarsh-s-naik-82522029b/)
 
 ---
 
@@ -108,7 +108,7 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/adarsh-s-naik/)
+- 🌐 [LinkedIn : linkedin.com/in/adarsh-s-naik-82522029b](https://www.linkedin.com/in/adarsh-s-naik-82522029b/)
 - 📧 [adarshnaik9977@gmail.com](mailto:adarshnaik9977@gmail.com)
 - 🐞 [Bugcrowd](https://bugcrowd.com/CybRockerz_8)
 - 🛡️ [TryHackMe](https://tryhackme.com/p/CybRockerz8)

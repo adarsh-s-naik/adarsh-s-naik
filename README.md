@@ -12,7 +12,7 @@
 - 🎓 Final-year B.E. student at **Alva’s Institute of Engineering and Technology**
 - 🔐 Specialization: **IoT, Cybersecurity, and Blockchain Technology**
 - 🎯 Focused on: **VAPT**, Bug Bounty, Threat Analysis, Web App Security
-- 📌 Based in: **Mangalore / Karkala, Karnataka**
+- 📌 Based in: **Mangalore, Karnataka**
 - 📧 [adarshnaik9977@gmail.com](mailto:adarshnaik9977@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adarsh-s-naik-82522029b/)
 
@@ -69,7 +69,7 @@
 
 ## 🏅 Achievements
 
-- 🥉 **3rd Place** – Bug Bounty, HackathonX 2025 (NCSRC & BugDiscover) after winning Mangalore Zone among 30+ teams  
+- 🥉 **3rd Place** – Bug Bounty, HackathonX Semifinal 2025 (NCSRC & BugDiscover) after winning Mangalore Zone among 30+ teams  
 - 📄 **Research Publications**:
   - [🔗 Securing Indian Online Banking](https://www.ijarsct.co.in/Paper19505.pdf)
   - [🔗 Role of Network Segmentation in Cybersecurity](https://www.ijarsct.co.in/Paper22806.pdf)
